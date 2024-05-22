@@ -20,5 +20,5 @@ node_modules
 build
 
 .env
-db.sqlite
+etl.sqlite
 
